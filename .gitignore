@@ -1,0 +1,21 @@
+# Dataset (kept on Google Drive, not in Git)
+Dataset/
+*.jpg
+*.jpeg
+*.png
+
+# Model weights and checkpoints
+*.pth
+*.pt
+*.h5
+*.keras
+checkpoints/
+
+# Python and Colab
+__pycache__/
+.ipynb_checkpoints/
+.env
+
+# OS
+Thumbs.db
+desktop.ini
